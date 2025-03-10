@@ -1,6 +1,6 @@
-# JPTV-AUTH
+# UNIT3D-AUTH
 
- An user authentication bot for the [JPTV Club](https://jptv.club/) Discord server, but works with any [Unit3D](https://github.com/HDInnovations/UNIT3D-Community-Edition) private torrent tracker.
+A Discord bot to authenticate users in a Discord server according to if they are registered in a torrent tracker using [Unit3D](https://github.com/HDInnovations/UNIT3D-Community-Edition).
 
 ## Setup
 
@@ -23,3 +23,5 @@
  3. After sending the username it will ask for your PID.
  4. Send your PID.
  5. If all the information is correct it will let you access the server.
+
+This bot was originally made for the JPTV Discord server, R.I.P JPTV.
